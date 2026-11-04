@@ -1,0 +1,452 @@
+{
+ "/images/logo.png": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.265497e186",
+  "stamp": "265497e186"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.c45d74f816",
+  "stamp": "c45d74f816"
+ },
+ "/images/post-1.jpg": {
+  "w": 787,
+  "h": 1400,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   787
+  ],
+  "base": "/images/_opt/post-1.5dadeb03de",
+  "stamp": "5dadeb03de"
+ },
+ "/images/post-2.jpg": {
+  "w": 1056,
+  "h": 1400,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1056
+  ],
+  "base": "/images/_opt/post-2.89cae82936",
+  "stamp": "89cae82936"
+ },
+ "/images/post-3.jpg": {
+  "w": 1050,
+  "h": 1400,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1050
+  ],
+  "base": "/images/_opt/post-3.5c503e23d5",
+  "stamp": "5c503e23d5"
+ },
+ "/images/post-4.jpg": {
+  "w": 1050,
+  "h": 1400,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1050
+  ],
+  "base": "/images/_opt/post-4.e05fa5d266",
+  "stamp": "e05fa5d266"
+ },
+ "/images/post-5.jpg": {
+  "w": 1050,
+  "h": 1400,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1050
+  ],
+  "base": "/images/_opt/post-5.ad917e6ca3",
+  "stamp": "ad917e6ca3"
+ },
+ "/images/post-6.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-6.d08999ef36",
+  "stamp": "d08999ef36"
+ },
+ "/images/post-7.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-7.e95fb6a8dc",
+  "stamp": "e95fb6a8dc"
+ },
+ "/images/post-8.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-8.b3a9d177a2",
+  "stamp": "b3a9d177a2"
+ },
+ "/sample/ballerina.webp": {
+  "w": 1200,
+  "h": 1500,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/ballerina.d71fc86060",
+  "stamp": "d71fc86060"
+ },
+ "/sample/bibble.webp": {
+  "w": 1100,
+  "h": 1100,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1100
+  ],
+  "base": "/images/_opt/sample/bibble.4cc1ab3b3b",
+  "stamp": "4cc1ab3b3b"
+ },
+ "/sample/bride.webp": {
+  "w": 1100,
+  "h": 1100,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1100
+  ],
+  "base": "/images/_opt/sample/bride.54113a7e80",
+  "stamp": "54113a7e80"
+ },
+ "/sample/cherry.webp": {
+  "w": 1400,
+  "h": 1750,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1400
+  ],
+  "base": "/images/_opt/sample/cherry.a4b530d8c7",
+  "stamp": "a4b530d8c7"
+ },
+ "/sample/elmo.webp": {
+  "w": 1200,
+  "h": 1200,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/elmo.bbf6cef986",
+  "stamp": "bbf6cef986"
+ },
+ "/sample/lily.webp": {
+  "w": 1400,
+  "h": 1750,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1400
+  ],
+  "base": "/images/_opt/sample/lily.7b265274f7",
+  "stamp": "7b265274f7"
+ },
+ "/sample/logo.png": {
+  "w": 256,
+  "h": 256,
+  "widths": [
+   96,
+   128,
+   256
+  ],
+  "base": "/images/_opt/sample/logo.adb5bdd1bd",
+  "stamp": "adb5bdd1bd"
+ },
+ "/sample/nineteen.webp": {
+  "w": 1200,
+  "h": 1500,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/nineteen.a5adf21b6c",
+  "stamp": "a5adf21b6c"
+ },
+ "/sample/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/sample/og-photo.cd927a3cf5",
+  "stamp": "cd927a3cf5"
+ },
+ "/sample/poster-florals.webp": {
+  "w": 900,
+  "h": 1600,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
+  ],
+  "base": "/images/_opt/sample/poster-florals.8e8697e1ae",
+  "stamp": "8e8697e1ae"
+ },
+ "/sample/poster-green.webp": {
+  "w": 900,
+  "h": 1125,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
+  ],
+  "base": "/images/_opt/sample/poster-green.323a4e6fca",
+  "stamp": "323a4e6fca"
+ },
+ "/sample/raspberry.webp": {
+  "w": 1200,
+  "h": 1500,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/raspberry.4982605417",
+  "stamp": "4982605417"
+ },
+ "/sample/reveal.webp": {
+  "w": 1200,
+  "h": 1500,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/reveal.78abaefb4c",
+  "stamp": "78abaefb4c"
+ },
+ "/sample/roses.webp": {
+  "w": 1200,
+  "h": 1200,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/roses.59cb7f0be3",
+  "stamp": "59cb7f0be3"
+ },
+ "/sample/spongebob.webp": {
+  "w": 1100,
+  "h": 1375,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1100
+  ],
+  "base": "/images/_opt/sample/spongebob.78bf377c34",
+  "stamp": "78bf377c34"
+ },
+ "/sample/thirty.webp": {
+  "w": 1200,
+  "h": 1199,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/thirty.fc3d8d6285",
+  "stamp": "fc3d8d6285"
+ },
+ "/sample/vintage.webp": {
+  "w": 1200,
+  "h": 1200,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/vintage.c7f6fd90fb",
+  "stamp": "c7f6fd90fb"
+ },
+ "/sample/wedding.webp": {
+  "w": 1600,
+  "h": 2000,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1600
+  ],
+  "base": "/images/_opt/sample/wedding.a11c196a92",
+  "stamp": "a11c196a92"
+ }
+}
